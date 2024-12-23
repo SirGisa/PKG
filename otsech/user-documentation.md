@@ -25,25 +25,27 @@ pip install matplotlib shapely
 Скачайте файл algorithm_clipping.py или клонируйте репозиторий:
 bash
 Копировать код
-git clone https://github.com/your-repository/algorithm_clipping.git
+git clone [https://github.com/](https://github.com/SirGisa/PKG/otsech)
 Перейдите в директорию:
-bash
-Копировать код
-cd путь/к/папке/algorithm_clipping
+bash cd путь/к/папке/algorithm_clipping
 Запустите программу:
-bash
-Копировать код
-python algorithm_clipping.py
+bash python algorithm_clipping.py
 4. Использование приложения
 4.1 Ввод данных
 Для использования программы нужно ввести координаты отрезков и прямоугольного окна в текстовый файл формата .txt. Пример формата файла:
 
 4
+
 1 1 5 5
+
 2 3 6 7
+
 -1 -1 0 0
+
 4 4 7 7
+
 1 1 4 4
+
 4.2 Выбор алгоритма отсечения
 Программа поддерживает два алгоритма отсечения:
 
