@@ -28,12 +28,13 @@ pip install matplotlib shapely
 ``
 - 3.3 Запуск программы
 Скачайте файл algorithm_clipping.py или клонируйте репозиторий:
-
+``bash
 git clone [https://github.com/](https://github.com/SirGisa/PKG/otsech)
+``
 Перейдите в директорию:
-bash cd путь/к/папке/algorithm_clipping
+``bash cd путь/к/папке/algorithm_clipping``
 Запустите программу:
-bash python algorithm_clipping.py
+``bash python algorithm_clipping.py``
 
 4. Использование приложения
 
