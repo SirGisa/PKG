@@ -41,7 +41,7 @@ python sutherland_cohen.py``
 
 ``
 3
-1 1 5 5
+1 1 5 5 /n
 -1 -1 2 2
 3 3 7 7
 0 0 4 4``
