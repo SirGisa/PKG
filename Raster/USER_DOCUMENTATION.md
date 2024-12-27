@@ -15,12 +15,17 @@
 Java 8 или выше.
 ## 3. Установка
 Убедитесь, что на вашем компьютере установлен JDK (Java Development Kit). Для проверки выполните:
+
 ``
 java -version``
+
 Сохраните код программы в файл RasterizationDemo.java.
+
 ``
 javac RasterizationDemo.java``
+
 Запустите программу:
+
 ``
 java src.RasterizationDemo``
 ## 4. Использование программы
